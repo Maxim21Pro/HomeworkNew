@@ -1,4 +1,4 @@
-package homeworks.homework9.Task2;
+package homeworks.homework9.task2;
 
 public class Person {
 
